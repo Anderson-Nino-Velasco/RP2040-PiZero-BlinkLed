@@ -1,0 +1,3 @@
+D:/RP2040-PiZero-Projects/BlinkLed/build/pioasm/CMakeFiles/pioasm.dir
+D:/RP2040-PiZero-Projects/BlinkLed/build/pioasm/CMakeFiles/edit_cache.dir
+D:/RP2040-PiZero-Projects/BlinkLed/build/pioasm/CMakeFiles/rebuild_cache.dir
